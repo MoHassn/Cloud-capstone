@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "4d6bab3e-e96b-4abd-be10-44637cea77e0",
+		"_postman_id": "61a1ff04-fba9-41c1-86df-79354cc6b135",
 		"name": "Udacity Capstone",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
@@ -187,11 +187,11 @@
 	"variable": [
 		{
 			"key": "apiId",
-			"value": ""
+			"value": "cxbuv2otmh"
 		},
 		{
 			"key": "authToken",
-			"value": ""
+			"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlROUHFYbWRnVUZqV0hGamF0NnZXMiJ9.eyJpc3MiOiJodHRwczovL21oYXNzYW4udXMuYXV0aDAuY29tLyIsInN1YiI6ImF1dGgwfDYxNjQ3M2E3YzY5ZWIyMDA3MDRlMTczMCIsImF1ZCI6IkhNbnFhbG83ZTg3dWgwa080b2RLRm01dlMzSzg5TUExIiwiaWF0IjoxNjMzOTczNTA2LCJleHAiOjE2MzQxNDYzMDYsImF0X2hhc2giOiJHQ3R3Ympaa3dOemFXNzVEUzZRWFh3Iiwibm9uY2UiOiJ4VUlvLjFlUkFLUzFNN010SnprNE4zZ0lrQW5qamdZXyJ9.s0OshOHA1u7LGuRvhxUfYrfssvuDgt96ZUwEUKR-jgB6rcpMpK7BJIznANF8fJKZQtlvje4gYKRwUtF4P9QdUsgYpl4fCeIc_htu-_veT_yXfPjHttK2i4Lu90f4uXf4a7hghEbB6mZMqVNrSj18NRr5dJP-RK854QScXmPhBoyTaCfYeCB5Ri5utFnFYt1_7QqdUCThDJo6uKmONXG6QAUxLuVV4UC8GJUGEmQkS9n9THBI7GfY_B0eI-aMfxpkT1KXcuIVEO3YFfs4ydBrAdG3K79r4taJrqJXlzXuPrWCh75smRpP20N15zjjTAN31nrD8GA0Yvsn6KQ5p4ghsw"
 		}
 	]
 }
