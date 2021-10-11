@@ -92,7 +92,7 @@ functions:
     events:
       - http:
           method: delete
-          path: book/{bookId}
+          path: books/{bookId}
           cors: true
           authorizer: Auth
     iamRoleStatements:
